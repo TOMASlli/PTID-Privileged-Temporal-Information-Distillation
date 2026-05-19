@@ -1,1 +1,1 @@
-# PTID-Privileged-Temporal-Information-Distillation-
+# PTID-Privileged-Temporal-Information-Distillation
